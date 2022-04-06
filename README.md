@@ -1,5 +1,5 @@
 <!-- https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-# Hello, folks! <img src="https://raw.githubusercontent.com/richardpanman/richardpanman/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/richardpanman/richardpanman/main/wave.gif" width="30px"> <!-- markdownlint-disable MD033 -->
 
 My name is Richard Panman, I live in the UK with my family and currently work for Sonatype. I enjoy the challenge of coding and working to make applications more robust and usable.
 
