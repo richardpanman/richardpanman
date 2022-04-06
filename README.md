@@ -5,6 +5,8 @@ My name is Richard Panman, I live in the UK with my family and currently work fo
 
 I've contributed to some Open Source projects as well as projects in private repos for my employers.
 
+I currently use two Github IDs richardpanman and rpanman-sonatype.
+
 ## 🔧 Technologies and Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
