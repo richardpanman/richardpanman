@@ -8,6 +8,7 @@ I've contributed to some Open Source projects as well as projects in private rep
 I currently use two Github IDs [richardpanman](https://github.com/richardpanman) and [rpanman-sonatype](https://github.com/rpanman-sonatype).
 
 ## 🔧 Technologies and Tools
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,7 +21,7 @@ I currently use two Github IDs [richardpanman](https://github.com/richardpanman)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## GitHub stats
+## 📈 GitHub stats
 
 ![rpanman-sonatype's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpanman-sonatype&show_icons=true&theme=radical&show_owner=true&count_private=true)
 
