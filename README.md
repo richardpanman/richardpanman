@@ -25,7 +25,7 @@ I currently use two Github IDs [richardpanman](https://github.com/richardpanman)
 
 ![rpanman-sonatype's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpanman-sonatype&show_icons=true&theme=radical&show_owner=true&count_private=true)
 
-## Open source project's I've contributed to
+## ✨ Open source project's I've contributed to
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonatype-nexus-community&repo=nexusiq-successmetrics&theme=radical)](https://github.com/sonatype-nexus-community/nexusiq-successmetrics)
 
