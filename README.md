@@ -30,3 +30,5 @@ I currently use two Github IDs [richardpanman](https://github.com/richardpanman)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonatype-nexus-community&repo=nexusiq-successmetrics&theme=radical)](https://github.com/sonatype-nexus-community/nexusiq-successmetrics)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonatype-nexus-community&repo=vscode-iq-plugin&theme=radical)](https://github.com/sonatype-nexus-community/vscode-iq-plugin)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=withfig&repo=autocomplete&theme=radical)](https://github.com/withfig/autocomplete)
